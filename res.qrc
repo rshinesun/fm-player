@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Top.png</file>
+        <file>image/bar.png</file>
+        <file>image/pause.png</file>
+        <file>image/T.png</file>
+        <file>image/Next.png</file>
+        <file>image/Play.png</file>
+    </qresource>
+</RCC>
